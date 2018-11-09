@@ -1,1 +1,2 @@
 Repositori Joan_Alvarez que el copiarem a github
+Afegeixo linia desde repositori local
